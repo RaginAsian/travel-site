@@ -2,6 +2,7 @@
   "name": "travel-site",
   "version": "1.0.0",
   "dependencies": {
+<<<<<<< HEAD
     "jquery": "^3.2.1",
     "normalize.css": "^7.0.0"
   },
@@ -15,3 +16,8 @@
     "postcss-simple-vars": "^4.0.0"
   }
 }
+=======
+    "jquery": "^2.2.3",
+    "normalize.css": "^4.1.1"
+  }
+>>>>>>> ed2102a43523fdd2bf4a8baee8b1650291861003
